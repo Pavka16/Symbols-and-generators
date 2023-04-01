@@ -1,4 +1,6 @@
 ## Символы и генераторы
+[![Build status](https://ci.appveyor.com/api/projects/status/uf355gyus8mm1koo?svg=true)](https://ci.appveyor.com/project/Pavka16/symbols-and-generators)
+---
 
 ### Легенда
 
